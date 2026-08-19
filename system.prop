@@ -1,2 +1,5 @@
 # Voice assistant
 ro.opa.device_model_id=v45-deviceaction-v45-nffuo5
+
+# Lunaris flag
+ro.lunaris.maintainer=Xtrakari
