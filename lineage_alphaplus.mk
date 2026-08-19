@@ -23,3 +23,10 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=alphaplus_lao_com \
     BuildDesc="alphaplus_lao_com-user 12 SKQ1.211103.001 22244172863c5 release-keys" \
     BuildFingerprint=lge/alphaplus_lao_com/alphaplus:12/SKQ1.211103.001/22244172863c5:user/release-keys
+
+# Lunaris Stuff
+TARGET_CUSTOM_UDFPS := false
+WITH_GMS := false
+TARGET_USE_FILES := true
+USE_REALITY_ENGINE := true
+SURFACE_FLINGER_BOOST := true
